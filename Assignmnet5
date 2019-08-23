@@ -1,0 +1,19 @@
+1.	Summarize the reasons of over-fitting and under-fitting
+over-fitting
+原因：
+模型过于复杂，数据太少，数据采样没有覆盖所有的范围
+解决方法：
+降低模型复杂度，使用惩罚模型，增加数据，剪枝，PCA降维
+under-fitting
+原因：
+模型过于简单，特征相关性不足，训练时间不够
+解决方法：
+使用更复杂的模型，对特征进行拓展，减弱正则化效果
+2.	Writing down three sceneries that machine learning has been used now
+对话机器人
+推荐系统
+搜索引擎
+3.	Come out with three new sceneries with which machine learning may be applied.
+智能电价
+智能物流（路径、货物量的最优解决方案等）
+智能在线问诊
